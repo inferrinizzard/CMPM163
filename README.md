@@ -1,22 +1,16 @@
 # CMPM163
 
-Current README for Homework 1
+Current README for Homework 2
 
-## Part A, B, C
+## Part A, B
 
-All present in ~/Build/Homework1.exe
-Optimum resolution is 1920x1200
-Source code available in ~/Source/
-
-## Part D
-
-In cmpm_h1d.pdf
+All present in ~/Homework 2/Builds/cmpm163HW2.exe
+Optimum resolution is 1920x1200 or 1600x1200
+Source code available in ~/Homework 2/Source/
 
 ## Screenshots
 
-![Part A](partA.png)
+![Part A](a.png)
 Part A
-![Part B](partB.png)
+![Part B](b.png)
 Part B
-![Part C](partC.png)
-Part C
